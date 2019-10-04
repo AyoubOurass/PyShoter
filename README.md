@@ -1,1 +1,1 @@
-# PyShoter
+# PyShoter v1.0
