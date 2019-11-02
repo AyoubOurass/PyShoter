@@ -11,7 +11,7 @@ import getpass
 line = ("C:\\Users\ "+str(getpass.getuser())+"\Pictures\Screenshots")
 line = line.replace(" ","")
 if os.path.exists(line) == True:
-	x = 1
+	pass
 else : 
 	os.mkdir(line)
 
